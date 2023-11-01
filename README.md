@@ -1,8 +1,8 @@
 # HTML5, CSS3, Web design Includes Flexbox and CSS Grid
 
-this is a whole html css project learn from jonas' Udemy course
+This is a whole html css project learn from jonas' Udemy course
 
-overview from here: https://omnifood-weinan.netlify.app/
+Preview from here: https://omnifood-weinan.netlify.app/
 
 ## Project contains:
 
